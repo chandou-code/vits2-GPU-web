@@ -1,6 +1,6 @@
 # vits2-GPU-web
-  java课程设计(水)
-
+   java课程设计
+ 
   
     https://www.纯度.site 
   
